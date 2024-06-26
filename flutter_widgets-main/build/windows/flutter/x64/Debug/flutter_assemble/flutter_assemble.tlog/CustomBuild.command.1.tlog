@@ -1,0 +1,28 @@
+^D:\FLUTTERPROJECTS\FLUTTER_WIDGETS-MAIN\FLUTTER_WIDGETS-MAIN\BUILD\WINDOWS\CMAKEFILES\9870AEBAD6DC88740D1532793E3722F2\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter\flutter PROJECT_DIR=D:\FlutterProjects\flutter_widgets-main\flutter_widgets-main FLUTTER_ROOT=C:\src\flutter\flutter FLUTTER_EPHEMERAL_DIR=D:\FlutterProjects\flutter_widgets-main\flutter_widgets-main\windows\flutter\ephemeral PROJECT_DIR=D:\FlutterProjects\flutter_widgets-main\flutter_widgets-main FLUTTER_TARGET=D:\FlutterProjects\flutter_widgets-main\flutter_widgets-main\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9jZGJlZGE3ODhhMjkzZmEyOTY2NWRjM2ZhM2Q2ZTYzYmQyMjFjYjBkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\FlutterProjects\flutter_widgets-main\flutter_widgets-main\.dart_tool\package_config.json C:/src/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTERPROJECTS\FLUTTER_WIDGETS-MAIN\FLUTTER_WIDGETS-MAIN\BUILD\WINDOWS\CMAKEFILES\3F757A307376C04BEF45778BEF676BE6\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTERPROJECTS\FLUTTER_WIDGETS-MAIN\FLUTTER_WIDGETS-MAIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/windows -BD:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows --check-stamp-file D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

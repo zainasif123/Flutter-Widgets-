@@ -1,0 +1,10 @@
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/CMakeFiles/INSTALL.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/runner/CMakeFiles/the_widgets.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/FlutterProjects/flutter_widgets-main/flutter_widgets-main/build/windows/runner/CMakeFiles/ALL_BUILD.dir
